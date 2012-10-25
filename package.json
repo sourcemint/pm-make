@@ -1,0 +1,13 @@
+{
+    "name": "sourcemint-pm-make",
+    "version": "0.1.0",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/sourcemint/pm-make.git"
+    },
+    "pm": "npm",
+    "dependencies": {
+        "sourcemint-util-js": "0.1.x",
+        "sourcemint-pm-sm": "0.1.x"
+    }
+}
